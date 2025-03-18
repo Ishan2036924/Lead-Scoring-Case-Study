@@ -1,4 +1,4 @@
-Lead Scoring Case Study - UpGrad
+Lead Scoring Case Study 
 
 Problem Statement:
 
